@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Practice Day 1</title>
+</head>
+<body>
+
+    <h1>My First Website</h1>
+    <h2>About Me</h2>
+
+    <p>
+        My name is Soyaib.
+        I am learning HTML.
+        This is my first practice.
+    </p>
+
+</body>
+</html>
