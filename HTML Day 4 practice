@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Day 4 - Semantic Layout</title>
+</head>
+<body>
+
+    <header>
+        <h1>My Portfolio</h1>
+        <p>Learning Web Development</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">About</a> |
+        <a href="#">Skills</a> |
+        <a href="#">Contact</a>
+    </nav>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            My name is Soyaib.
+            I am a CSE student learning HTML.
+        </p>
+    </section>
+
+    <section>
+        <h2>My Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS (Learning)</li>
+            <li>GitHub</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2026 Soyaib. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
